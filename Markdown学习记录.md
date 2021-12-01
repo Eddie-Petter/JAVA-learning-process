@@ -72,4 +72,3 @@ https://blog.csdn.net/qq_31393401/article/details/114120098
 
 # 轮到尝试图片了
 ！[随表找的一个海浪的照片](https://ns-strategy.cdn.bcebos.com/ns-strategy/upload/fc_big_pic/part-00374-2592.jpg)
-**很可惜，好像图片不能这么用**  
